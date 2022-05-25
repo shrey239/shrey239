@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrey239
 - 👀 I’m interested in Cyber Security and Federated Learning.
-- 🌱 I’m currently learning the concepts of Federated Learning
+- 🌱 I’m currently learning the concepts of Federated Learning with its implementation in pyTorch
 - 💞️ I’m currently designing an ML-model that focusses on a specific kind of attack 
 
 <!---
